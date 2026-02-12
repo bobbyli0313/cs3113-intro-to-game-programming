@@ -1,0 +1,1 @@
+This is a repository for CS 3113 Intro to Game Progamming, Spring 2026.
