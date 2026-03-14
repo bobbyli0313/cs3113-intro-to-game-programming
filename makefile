@@ -1,5 +1,5 @@
 # Source and target
-SRCS = main.cpp CS3113/cs3113.cpp
+SRCS = main.cpp CS3113/cs3113.cpp CS3113/Entity.cpp
 TARGET = raylib_app
 
 # OS detection (macOS = Darwin, Windows via MinGW = MINGW*)
